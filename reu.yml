@@ -1,0 +1,9 @@
+name: reu
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - ipywidgets
+  - imageio
+
